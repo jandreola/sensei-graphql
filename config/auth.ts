@@ -1,0 +1,1 @@
+export const cookie = "paste your cookies here";
